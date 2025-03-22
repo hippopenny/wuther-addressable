@@ -1,4 +1,5 @@
-{
+[
+ {
     "CharacterID": "carlottaa",
     "Name": "shooter",
     "Rarity": 5,
@@ -10,4 +11,5 @@
         "Chixia"
     ],
     "bodytype": "Female Tall"
-}
+ }
+]
