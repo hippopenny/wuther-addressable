@@ -11,52 +11,5 @@
       "Chixia"
     ],
     "bodytype": "Female Tall",
-    "itemPreferences": [
-      {
-        "item": { "fileID": 11400000, "guid": "a1b2c3d4e5f6", "type": 2 },
-        "preferenceType": 3,
-        "responseDialogues": [
-          "A banana? Hmph, unnecessary.",
-          "This is not needed, but I accept.",
-          "A fruit. Acceptable, I suppose.",
-          "A banana? I fail to see its purpose."
-        ],
-        "giftAction": { "fileID": 0 }
-      },
-      {
-        "item": { "fileID": 11400000, "guid": "30224d6cbb5c370479181b8e2ab42654", "type": 2 },
-        "preferenceType": 3,
-        "responseDialogues": [
-          "A flower. It will wither soon enough.",
-          "A flower. It’s nice, but not practical.",
-          "This flower is pleasant, though fleeting.",
-          "A flower. Appreciated, though it’s not very useful."
-        ],
-        "giftAction": { "fileID": 0 }
-      },
-      {
-        "item": { "fileID": 11400000, "guid": "572bcebeded2a654599635d64a08d177", "type": 2 },
-        "preferenceType": 1,
-        "responseDialogues": [
-          "Afterglow Coral! Quite impressive. I appreciate this.",
-          "A piece of Afterglow Coral? Excellent. Thank you.",
-          "This Afterglow Coral is remarkable. I’m pleased.",
-          "Afterglow Coral. A meaningful gift. Thanks!"
-        ],
-        "giftAction": { "fileID": 11400000, "guid": "01cbcedce3feaee4686ea5bbb7d86025", "type": 2 }
-      },
-      {
-        "item": { "fileID": 11400000, "guid": "ec8d9471f1aec004eb5e6ea439ba3d76", "type": 2 },
-        "preferenceType": 6,
-        "responseDialogues": [
-          "I didn't think you were this kind of person!",
-          "Eww, it stinks...",
-          "Is this some sort of cosplay?",
-          "Trash? This is quite disappointing.",
-          "This is a major disappointment."
-        ],
-        "giftAction": { "fileID": 0 }
-      }
-    ]
   }
 ]
