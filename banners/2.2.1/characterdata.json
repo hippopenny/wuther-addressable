@@ -11,5 +11,28 @@
       "Chixia"
     ],
     "bodytype": "Female Tall",
-  }
+  },
+  "itemPreferences": [
+      {
+        "item": "Banana",
+        "preferenceType": 3,
+        "responseDialogues": [
+          "A banana? Hmph, unnecessary.",
+          "This is not needed, but I accept.",
+          "A fruit. Acceptable, I suppose.",
+          "A banana? I fail to see its purpose."
+        ],
+        "giftAction": null
+      },
+      {
+        "item": "JadeGift",
+        "preferenceType": 1,
+        "responseDialogues": [
+          "Afterglow Coral! Quite impressive. I appreciate this.",
+          "A piece of Afterglow Coral? Excellent. Thank you.",
+          "This Afterglow Coral is remarkable. I’m pleased.",
+          "Afterglow Coral. A meaningful gift. Thanks!"
+        ],
+        "giftAction": "ReturnJadeAction"
+      },
 ]
