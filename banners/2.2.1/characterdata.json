@@ -11,8 +11,7 @@
       "Chixia"
     ],
     "bodytype": "Female Tall",
-  },
-  "itemPreferences": [
+    "itemPreferences": [
       {
         "item": "Banana",
         "preferenceType": 3,
@@ -34,5 +33,6 @@
           "Afterglow Coral. A meaningful gift. Thanks!"
         ],
         "giftAction": "ReturnJadeAction"
-      },
+      }
+  }
 ]
