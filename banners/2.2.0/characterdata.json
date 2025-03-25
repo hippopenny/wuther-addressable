@@ -13,7 +13,7 @@
     "bodytype": "FemaleTall",
     "itemPreferences": [
       {
-        "item": "Banana",
+        "ItemID": "Banana",
         "preferenceType": 3,
         "responseDialogues": [
           "A banana? Hmph, unnecessary.",
@@ -24,7 +24,7 @@
         "giftAction": null
       },
       {
-        "item": "Flower",
+        "ItemID": "Flower",
         "preferenceType": 1,
         "responseDialogues": [
           "(Embarrassed noises)",
@@ -35,7 +35,7 @@
         "giftAction": null
       },
       {
-        "item": "Trash",
+        "ItemID": "Trash",
         "preferenceType": 6,
         "responseDialogues": [
           "This is trash. I don’t need it.",
@@ -46,7 +46,7 @@
         "giftAction": null
       },
       {
-        "item": "JadeGift",
+        "ItemID": "JadeGift",
         "preferenceType": 1,
         "responseDialogues": [
           "Afterglow Coral! Quite impressive. I appreciate this.",
