@@ -1,13 +1,61 @@
-{
-    "CharacterID": "phoebee",
-    "Name": "card captorr",
+[
+  {
+    "CharacterID": "Cantarella",
+    "Name": "JellyFish",
     "Rarity": 5,
-    "Element": "spectro",
-    "BannerName": "Winds of Destiny",
+    "Element": "havoc",
+    "BannerName": "Sea of Dreams",
     "List4Star": [
-        "Amber",
-        "Kaeya",
-        "Lisa"
+      "Danjin",
+      "Chixia",
+      "Yuanwu"
     ],
-    "bodytype": "Female Medium"
-}
+    "bodytype": "FemaleTall",
+    "itemPreferences": [
+      {
+        "item": "Banana",
+        "preferenceType": 3,
+        "responseDialogues": [
+          "A banana? Hmph, unnecessary.",
+          "This is not needed, but I accept.",
+          "A fruit. Acceptable, I suppose.",
+          "A banana? I fail to see its purpose."
+        ],
+        "giftAction": null
+      },
+      {
+        "item": "Flower",
+        "preferenceType": 1,
+        "responseDialogues": [
+          "(Embarrassed noises)",
+          "This flower brings a touch of elegance.",
+          "A flower? It’s quite lovely.",
+          "A flower? It’s beautiful. Thank you."
+        ],
+        "giftAction": null
+      },
+      {
+        "item": "LordlyTrash",
+        "preferenceType": 6,
+        "responseDialogues": [
+          "This is trash. I don’t need it.",
+          "Eww, it stinks...",
+          "I don’t want this. Take it back.",
+          "I didn't think you were this kind of person!"
+        ],
+        "giftAction": null
+      },
+      {
+        "item": "JadeGift",
+        "preferenceType": 1,
+        "responseDialogues": [
+          "Afterglow Coral! Quite impressive. I appreciate this.",
+          "A piece of Afterglow Coral? Excellent. Thank you.",
+          "This Afterglow Coral is remarkable. I’m pleased.",
+          "Afterglow Coral. A meaningful gift. Thanks!"
+        ],
+        "giftAction": "ReturnJadeAction"
+      }
+    ]
+  }
+]
