@@ -35,7 +35,7 @@
         "giftAction": null
       },
       {
-        "item": "LordlyTrash",
+        "item": "Trash",
         "preferenceType": 6,
         "responseDialogues": [
           "This is trash. I don’t need it.",
