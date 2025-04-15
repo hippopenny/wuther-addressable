@@ -4,12 +4,6 @@
     "Name": "Test4Star",
     "Rarity": 4,
     "Element": "Cyro",
-    "BannerName": "Sea of Dreams",
-    "List4Star": [
-      "ayaka",
-      "charlotte",
-      "citlali"
-    ],
     "bodytype": "FemaleTall",
     "itemPreferences": [
       {
