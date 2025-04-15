@@ -1,12 +1,71 @@
 [
   {
+    "CharacterID": "Test4Star",
+    "Name": "Test4Star",
+    "Rarity": 4,
+    "Element": "Cyro",
+    "BannerName": "Sea of Dreams",
+    "List4Star": [
+      "ayaka",
+      "charlotte",
+      "citlali"
+    ],
+    "bodytype": "FemaleTall",
+    "itemPreferences": [
+      {
+        "ItemID": "Banana",
+        "preferenceType": 3,
+        "responseDialogues": [
+          "A banana? Hmph, unnecessary.",
+          "This is not needed, but I accept.",
+          "A fruit. Acceptable, I suppose.",
+          "A banana? I fail to see its purpose."
+        ],
+        "giftAction": null
+      },
+      {
+        "ItemID": "Flower",
+        "preferenceType": 1,
+        "responseDialogues": [
+          "(Embarrassed noises)",
+          "This flower brings a touch of elegance.",
+          "A flower? It’s quite lovely.",
+          "A flower? It’s beautiful. Thank you."
+        ],
+        "giftAction": null
+      },
+      {
+        "ItemID": "Trash",
+        "preferenceType": 6,
+        "responseDialogues": [
+          "This is trash. I don’t need it.",
+          "Eww, it stinks...",
+          "I don’t want this. Take it back.",
+          "I didn't think you were this kind of person!"
+        ],
+        "giftAction": null
+      },
+      {
+        "ItemID": "JadeGift",
+        "preferenceType": 1,
+        "responseDialogues": [
+          "Afterglow Coral! Quite impressive. I appreciate this.",
+          "A piece of Afterglow Coral? Excellent. Thank you.",
+          "This Afterglow Coral is remarkable. I’m pleased.",
+          "Afterglow Coral. A meaningful gift. Thanks!"
+        ],
+        "giftAction": "ReturnJadeAction"
+      }
+    ]
+  },
+  {
     "CharacterID": "Cantarella",
     "Name": "JellyFish",
     "Rarity": 5,
     "Element": "Cyro",
     "BannerName": "Sea of Dreams",
     "List4Star": [
-      "ayaka",
+      "Test4Star",
       "charlotte",
       "citlali"
     ],
